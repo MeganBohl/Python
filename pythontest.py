@@ -87,3 +87,4 @@ print (myStr.capitalize())
 print (myStr.center)
 
 print (myStr.replace('World', 'Devops'))
+
